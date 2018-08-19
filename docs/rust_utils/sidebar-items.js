@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["btrie","A TrieMap with owned nodes."],["xor_linked_list","A doubly-linked list with owned nodes"]],"struct":[["BTrieMap","A TrieMap with owned nodes."],["XorLinkedList","A doubly-linked list with owned nodes"]]});
